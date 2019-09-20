@@ -1,4 +1,4 @@
-# 1.基本数据库操作
+#基本数据库操作
 创建数据库： create database [数据库名]; 
 删除数据库： drop database [数据库名]; 
 数据库重命名： alter database [old_数据库名] rename to [new_数据库名]; 
